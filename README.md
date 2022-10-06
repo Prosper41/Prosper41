@@ -1,8 +1,10 @@
 - 👋 Hi, I’m Prosper
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning c++,html,css
-- 💞️ I’m looking to collaborate on new projects
-- 📫 How to reach me ...
+- 👀 I’m interested in WebDev(JS:Vue,React)HTML,CSS
+- 🌱 I’m currently learning C++
+- 💞️ I’m looking to collaborate on new projects related to web dev
+- 📫 How to reach me on Twitter@1_ovatime o
+
+
 
 <!---
 Prosper41/Prosper41 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
