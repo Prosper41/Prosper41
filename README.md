@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Prosper
-- 👀 I’m interested in WebDev(JS:Vue,React)HTML,CSS
+- 👀 I’m interested in WebDev(JS:React)HTML,CSS
 - 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on new projects related to web dev
+- 💥 I’m looking to collaborate on new projects related to web dev
 - 📫 How to reach me on Twitter@1_ovatime, gyinkaprosper41@gmail.com
 
 
