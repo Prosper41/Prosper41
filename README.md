@@ -1,5 +1,4 @@
-# 💫 About Me:
-🔭 I'm currently working on blood donation app<br>👯 I'm looking to collaborate on projects<br>🌱 I'm currently learning Golang for backend<br>🤝 Ask me about python <br>⚡ Sleeping
+
 
 
 ## 🌐 Socials:
