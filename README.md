@@ -1,23 +1,110 @@
+<h1 align="center">Prosper Gyinka</h1>
+<h3 align="center">Software Engineer | Cloud & DevOps </h3>
 
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Prosper Gyinka) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/__ffx) 
-
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Linode](https://img.shields.io/badge/linode-00A95C?style=for-the-badge&logo=linode&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Prosper41&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Prosper41&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Prosper41&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <a href="https://www.linkedin.com/in/prosper-gyinka"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:gyinkaprosper41@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://github.com/prosper41"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Prosper41&icon=0&color=0)](https://visitcount.itsvg.in)
+
+### 👋 whoami
+
+Software engineer based in Accra, Ghana, currently completing National Service on the Cloud Engineering team at **Coderaccoon**. My work spans backend engineering, cloud infrastructure, DevOps, and distributed systems — building multi-tenant SaaS backends, deployment pipelines, and internal tooling.
+
+AWS Certified Solutions Architect – Associate and AWS Certified Cloud Practitioner, with CCNA in progress. 
 
 
+---
 
+### 🛠️ Tech Stack
 
-<!---
-Prosper41/Prosper41 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Languages & Core**
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+**Frontend**
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+**Backend & Infrastructure**
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
+
+**Databases & Cache**
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/-MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+**Cloud & DevOps**
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+
+---
+
+### 🚀 Featured Work
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**ApexHR**
+*Coderaccoon — 2025/2026*
+
+Multi-tenant SaaS HR and leave management platform. Backend developer and DevOps lead. Built a multi-step leave approval workflow, a ledger-based leave balance system, RBAC with tenant/department scoping, an accrual scheduler with idempotency and advisory locks, and an immutable audit log. Stood up the CI pipeline and Docker Compose dev environment.
+
+`NestJS` `CQRS` `Prisma` `MariaDB` `Redis` `RabbitMQ` `BullMQ` `Docker` `Next.js`
+
+</td>
+<td width="50%" valign="top">
+
+**Internal Developer Platform (IDP)**
+*Personal Project — In Progress*
+
+A multi-tenant self-service platform that lets developers provision and manage infrastructure, applications, and environments without waiting on a DevOps team for every request — databases, environments, deployments, secrets, and permissions, all through a web portal with built-in policy and approval workflows. Includes RBAC, project/team management, environment management (dev/staging/prod), deployment management, secrets management, audit logs, and an admin dashboard.
+
+`NestJS` `Next.js` `PostgreSQL` `Prisma` `Redis` `BullMQ` `Docker`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**Blood Donation Tracker**
+*Final Year Project, UPSA — 2025*
+
+A mobile app for blood donation management, connecting donors, hospitals, and blood banks through real-time donor availability tracking, blood type matching, donation history, appointment scheduling, and emergency blood request alerts. Built the mobile app in React Native with a companion Next.js admin web dashboard for blood banks and healthcare providers, backed by Supabase for auth and real-time data. Designed on Figma.
+
+`React Native` `Next.js` `Supabase` `Redux` `Expo`
+
+</td>
+<td width="50%" valign="top">
+
+</td>
+</tr>
+</table>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=prosper41&show_icons=true&theme=radical" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=prosper41&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prosper41&layout=compact&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prosper41&theme=react-dark" />
+</p>
