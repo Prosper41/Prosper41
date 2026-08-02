@@ -1,5 +1,5 @@
 <h1 align="center">Prosper Gyinka</h1>
-<h3 align="center">Software Engineer | Cloud & DevOps </h3>
+<h3 align="center">Software Engineer | Cloud & DevOps Engineering</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/prosper-gyinka"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
@@ -11,7 +11,7 @@
 
 ### 👋 whoami
 
-Software engineer based in Accra, Ghana, currently completing National Service on the Cloud Engineering team at **Coderaccoon**. My work spans backend engineering, cloud infrastructure, DevOps, and distributed systems — building multi-tenant SaaS backends, deployment pipelines, and internal tooling.
+Software engineer based in Accra, Ghana, currently completing National Service as a software developer at **Coderaccoon**. My work spans backend engineering, cloud infrastructure, DevOps, and distributed systems — building multi-tenant SaaS backends, deployment pipelines, and internal tooling.
 
 AWS Certified Solutions Architect – Associate and AWS Certified Cloud Practitioner, with CCNA in progress. 
 
@@ -36,11 +36,14 @@ AWS Certified Solutions Architect – Associate and AWS Certified Cloud Practiti
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
+![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 
 **Databases & Cache**
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/-MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 
 **Cloud & DevOps**
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
