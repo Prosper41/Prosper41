@@ -72,7 +72,7 @@ Multi-tenant SaaS HR and leave management platform. Backend developer and DevOps
 **Internal Developer Platform (IDP)**
 *Personal Project*
 
-A multi-tenant self-service platform that lets developers provision and manage infrastructure, applications, and environments without waiting on a DevOps team for every request — databases, environments, deployments, secrets, and permissions, all through a web portal with built-in policy and approval workflows. Includes RBAC, project/team management, environment management (dev/staging/prod), deployment management, secrets management, audit logs, and an admin dashboard.
+A multi-tenant self-service platform that lets developers provision and manage infrastructure, applications, and environments without waiting on a DevOps team for every request  databases, environments, deployments, secrets, and permissions, all through a web portal with built-in policy and approval workflows. Includes RBAC, project/team management, environment management (dev/staging/prod), deployment management, secrets management, audit logs, and an admin dashboard.
 
 `NestJS` `Next.js` `PostgreSQL` `Prisma` `Redis` `BullMQ` `Docker`
 
