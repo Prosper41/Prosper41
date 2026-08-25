@@ -11,7 +11,7 @@
 
 ### 👋 whoami
 
-Software engineer based in Accra, Ghana, currently completing National Service as a software developer at **Coderaccoon**. My work spans frontend development, backend engineering, cloud infrastructure, DevOps, and distributed systems — building multi-tenant SaaS backends, deployment pipelines, and internal tooling.
+Software engineer based in Accra, Ghana, currently completing National Service as a software developer at **Coderaccoon**. My work spans frontend development, backend engineering, cloud infrastructure, DevOps, and distributed systems building multi-tenant SaaS backends, deployment pipelines, and internal tooling.
 
 AWS Certified Solutions Architect – Associate and AWS Certified Cloud Practitioner, with CCNA in progress. 
 
